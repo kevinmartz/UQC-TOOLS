@@ -1,56 +1,62 @@
-# UQC-TOOLS
-A Hybrid of PS script and python for Scanners aka ( manhwa, manga, webtoon scanners )
 
-## Everything you need in one place for QC's and Uploaders.
+# UQC-TOOLS  
+A Magical Fusion of Photoshop Scripts and Python for the Unsung Heroes: Scanners (Yes, You, the Manhwa, Manga, and Webtoon Scanners)
+
+## **All Your QC and Uploader Needs Wrapped in One Neat Package**
 
 ### **Add Raws/CLRD:**
 
-Add raw files as new layers below existing content in the currently active document.
+Because who doesn’t love a good layer cake?
 
-Add CLRD files as new layers above existing content in the currently active document.
+- **Add Raws**: Drop your raw files like a pro, layering them smoothly below your current content. 
+- **Add CLRDs**: For those moments when you realize, "Oh snap, I have the raw, but I need to add the CLRD on top."
 
->Note: Add CLRD/RAW - 
+> **Pro Tip**:  
+> - **Raw**: When you’ve mysteriously CLRD’d something without keeping a raw backup.  
+> - **CLRD**: When you've got the raw but need that sweet, sweet CLRD layer on top.
 
-Raw: when you forget you've CLRD'd without having a copy of raw.
-
-CLRD: when you've the raw but want to add CLRD. 
-
-Efficient Image management seamlessly integrate Raw and CLRD layers into existing files.
-
-Both supports batch add - it automatically sorts by name/num and places them in perfectly, so you don't need to wonder if it was placed or order is not correct ( of course if for some dumb reason your not EDing Pg 5, 7, 10 lol )
+Both methods support batch additions, automatically sorting by name/number. So, no more pondering if you’ve gone off the rails by skipping Pg 5, 7, or 10 (because who even needs to edit in numerical order, right?).
 
 ### **SMART STITCHING:**
 
-Quickly combine multiple image files into a single vertical layout. 
-Now it detects the width of and uses PS to match the width of all stitched images.
-It has all the logics and etc so dont worry it merges them in order and perfectly!
+Need to combine a bunch of images into one, towering monolith? Done.  
+Now with automatic width detection and pixel-perfect precision, it stitches your images so seamlessly you’ll swear it had human intelligence (it doesn’t, but it’s smart enough). So, stop worrying—your images will merge in order and *perfectly*.
+
+>Demo:
+
+![Stitch](https://github.com/user-attachments/assets/d355bf1e-fe88-4bc7-a3de-6b165017b70e)
+
 
 ### **SMART SPLITTING:**
 
-**The long awaited "Algorithmic" feature!**
+**The “Algorithmic” Feature You Didn’t Know You Needed!**
 
-Automatically splits your tall ass PNGs/Opened documents to your desired height and it uses PYTHON to split without splitting speech bubbles,SFX, other contents! It uses "ALGORITHM"
-Not only that but you can set custom sensitivity and scan steps for better Splitting!
-_default is set to 60 I find that pretty accurate._
+Got a tall PNG that needs slicing? This bad boy uses Python to split your image without decapitating speech bubbles, SFX, or other critical content. It's an "ALGORITHM," folks.  
+You can even tweak the sensitivity and scan steps for an even better split. _Default is set to 100, 60—because that’s the sweet spot._
+
+>Demo:
+
+![split](https://github.com/user-attachments/assets/4b92ffc4-2676-474f-a12c-62e83206a8ef)
 
 
 ### **Convert Webtoon Standard Size:**
 
-One-click resizing to 800px width with logic to dynamically set the height based on width.
+One click, and BOOM—800px width, with height dynamically set to match. No more guessing games.
 
 ## INSTALLATION
 
 **WINDOWS:**
 
-Download the latest release here
-Unzip the file right click on the "Run me as Admin.bat" file and run it as Admin, wait for the install to finish and wola now you have the UQC installed. Check the image below for where you can find the script.
+Step 1: Click here to download the latest release. [Download](https://github.com/kevinmartz/UQC-TOOLS/releases/tag/Released)  
+Step 2: Unzip the file, right-click "Run me as Admin.bat," and, well...run it as Admin.  
+Step 3: Wait for the magic to happen. Voilà—UQC installed. Check out the image below to see where the script will be waiting for you.
 
-Yeah yeah I know why admin?
-Well ask Microsoft.
-
+And before you ask, "Why Admin?"—well, blame Microsoft.
 
 ![Where Script](https://github.com/user-attachments/assets/f45be4d3-70f6-4494-a296-e3a6e4d0b586)
 
 **MAC VERSION:**
 
-_where is the Mac version? I don't have a Mac. So if anyone has a Mac and knows shell scripting you're free to make a Mac version!_
+_What's that? A Mac version? You mean those things people use to sip lattes in cafes? Yeah, I don’t have one. But hey, if you’re a Mac user and can whip up some shell scripts, feel free to contribute!_
+
+# **TBA ( New shit if i add )**
