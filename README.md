@@ -1,6 +1,8 @@
 
 # UQC-TOOLS  
+
 A Magical Fusion of Photoshop Scripts and Python for the Unsung Heroes: Scanners (Yes, You, the Manhwa, Manga, and Webtoon Scanners)
+![Capture](https://github.com/user-attachments/assets/1bf29311-b41b-4deb-bcbf-6b8833bced49)
 
 ## **All Your QC and Uploader Needs Wrapped in One Neat Package**
 
@@ -22,6 +24,8 @@ Both methods support batch additions, automatically sorting by name/number. So, 
 Need to combine a bunch of images into one, towering monolith? Done.  
 Now with automatic width detection and pixel-perfect precision, it stitches your images so seamlessly you’ll swear it had human intelligence (it doesn’t, but it’s smart enough). So, stop worrying—your images will merge in order and *perfectly*.
 
+
+
 >Demo:
 
 ![Stitch](https://github.com/user-attachments/assets/d355bf1e-fe88-4bc7-a3de-6b165017b70e)
@@ -33,6 +37,13 @@ Now with automatic width detection and pixel-perfect precision, it stitches your
 
 Got a tall PNG that needs slicing? This bad boy uses Python to split your image without decapitating speech bubbles, SFX, or other critical content. It's an "ALGORITHM," folks.  
 You can even tweak the sensitivity and scan steps for an even better split. _Default is set to 100, 60—because that’s the sweet spot._
+
+>**Screenshots**
+
+![h](https://github.com/user-attachments/assets/840abb58-0c3c-4c8f-b69a-d5c2db57dd0c)
+![sen](https://github.com/user-attachments/assets/394fa79b-55b5-4f75-a213-fb49960cb5fa)
+![scan](https://github.com/user-attachments/assets/2bdf9376-e6fc-4bb6-97ad-f68b9e82209b)
+
 
 >Demo:
 
