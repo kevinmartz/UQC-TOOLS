@@ -35,7 +35,7 @@ Now with automatic width detection and pixel-perfect precision, it stitches your
 
 **The “Algorithmic” Feature You Didn’t Know You Needed!**
 
-Got a tall PNG that needs slicing? This bad boy uses Python to split your image without decapitating speech bubbles, SFX, or other critical content. It's an "ALGORITHM," folks.  
+Got a tall PNG or opened Document that needs slicing? This bad boy uses Python to split your image without decapitating speech bubbles, SFX, or other critical content. It's an "ALGORITHM," folks.  
 You can even tweak the sensitivity and scan steps for an even better split. _Default is set to 100, 60—because that’s the sweet spot._
 
 >**Screenshots**
