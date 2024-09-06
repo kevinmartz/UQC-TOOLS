@@ -74,5 +74,4 @@ _What's that? A Mac version? You mean those things people use to sip lattes in c
 
 ![Capture](https://github.com/user-attachments/assets/baa4fe13-81db-431b-8ef2-1b967b903584)
 
-
 # **TBA ( New shit if i add )**
