@@ -72,6 +72,7 @@ _What's that? A Mac version? You mean those things people use to sip lattes in c
 
 ## BIG Thanks me be whoz pokie
 
-https://cdn.discordapp.com/attachments/1253087550126428372/1281556669767356426/Screenshot_2024-09-06-15-05-31-169_com.discord-edit.jpg?ex=66dc2628&is=66dad4a8&hm=6c6818551663cf78d6a1e01addaadd0545cb9e25fad4e677821faab1664b5053&
+![Capture](https://github.com/user-attachments/assets/baa4fe13-81db-431b-8ef2-1b967b903584)
+
 
 # **TBA ( New shit if i add )**
