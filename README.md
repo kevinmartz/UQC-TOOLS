@@ -70,4 +70,8 @@ And before you ask, "Why Admin?"—well, blame Microsoft.
 
 _What's that? A Mac version? You mean those things people use to sip lattes in cafes? Yeah, I don’t have one. But hey, if you’re a Mac user and can whip up some shell scripts, feel free to contribute!_
 
+## BIG Thanks me be whoz pokie
+
+
+
 # **TBA ( New shit if i add )**
