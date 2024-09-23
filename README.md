@@ -27,7 +27,7 @@ Now with automatic width detection and pixel-perfect precision, it stitches your
 
 >Demo:
 
-![Stitch](https://github.com/user-attachments/assets/d355bf1e-fe88-4bc7-a3de-6b165017b70e)
+TBA
 
 
 ### **SMART SPLITTING:**
@@ -46,7 +46,7 @@ You can even tweak the sensitivity and scan steps for an even better split. _Def
 
 >Demo:
 
-![split](https://github.com/user-attachments/assets/4b92ffc4-2676-474f-a12c-62e83206a8ef)
+TBA
 
 
 ### **Convert Webtoon Standard Size:**
