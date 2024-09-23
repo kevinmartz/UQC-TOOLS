@@ -2,7 +2,6 @@
 # UQC-TOOLS  
 
 A Magical Fusion of Photoshop Scripts and Python for the Unsung Heroes: Scanners (Yes, You, the Manhwa, Manga, and Webtoon Scanners)
-![Capture](https://github.com/user-attachments/assets/1bf29311-b41b-4deb-bcbf-6b8833bced49)
 
 ## **All Your QC and Uploader Needs Wrapped in One Neat Package**
 
