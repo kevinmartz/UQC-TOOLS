@@ -1,11 +1,12 @@
 @echo off
-
+
+
 for /d %%G in ("%ProgramFiles%\Adobe\Adobe Photoshop*") do (
     set PhotoshopDir=%%G
     goto :found
 )
 
-
+:found
 if not defined PhotoshopDir (
     echo Photoshop installation not found.
     exit /b 1
@@ -17,7 +18,8 @@ set ScriptsDir=%PhotoshopDir%\Presets\Scripts
 if not exist "%ScriptsDir%" (
     mkdir "%ScriptsDir%"
 )
-
+
+
 copy "%~dp0UQC TOOLS.jsx" "%ScriptsDir%"
 copy "%~dp0smart_split.py" "%ScriptsDir%"
 
@@ -52,9 +54,11 @@ if %ERRORLEVEL% EQU 0 (
     echo Required packages are already installed.
     goto :finish
 )
-
+
+
 python -m pip install numpy pillow --quiet --force-reinstall
 
-:finish
+:finish
+
 echo Script "UQC Tools" is installed.
 pause
